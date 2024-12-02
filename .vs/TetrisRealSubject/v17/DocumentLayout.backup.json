@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\AddBlockColor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|solutionrelative:TetrisRealSubject\\AddBlockColor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\ConsoleCursor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|solutionrelative:TetrisRealSubject\\ConsoleCursor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,8 +35,8 @@
       "RelativeMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|solutionrelative:TetrisRealSubject\\Screen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\ConsoleCursor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|solutionrelative:TetrisRealSubject\\ConsoleCursor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\AddBlockColor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|solutionrelative:TetrisRealSubject\\AddBlockColor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\Blocks.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,28 +142,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "AddBlockColor.c",
               "DocumentMoniker": "C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\AddBlockColor.c",
               "RelativeDocumentMoniker": "TetrisRealSubject\\AddBlockColor.c",
               "ToolTip": "C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\AddBlockColor.c",
               "RelativeToolTip": "TetrisRealSubject\\AddBlockColor.c",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAuwEAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-02T10:29:09.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T10:29:09.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "ConsoleCursor.c",
               "DocumentMoniker": "C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\ConsoleCursor.c",
               "RelativeDocumentMoniker": "TetrisRealSubject\\ConsoleCursor.c",
               "ToolTip": "C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\ConsoleCursor.c",
               "RelativeToolTip": "TetrisRealSubject\\ConsoleCursor.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-02T10:28:50.139Z"
+              "WhenOpened": "2024-12-02T10:28:50.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
