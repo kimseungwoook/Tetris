@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\Controller.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|solutionrelative:TetrisRealSubject\\Controller.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\Controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|solutionrelative:TetrisRealSubject\\Controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\Controller.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|solutionrelative:TetrisRealSubject\\Controller.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CE8C8DB-3497-498E-984D-26806F61AF9E}|TetrisRealSubject\\TetrisRealSubject.vcxproj|C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Controller.h",
               "DocumentMoniker": "C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\Controller.h",
               "RelativeDocumentMoniker": "TetrisRealSubject\\Controller.h",
               "ToolTip": "C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\Controller.h",
               "RelativeToolTip": "TetrisRealSubject\\Controller.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwFQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-02T10:30:29.523Z",
               "EditorCaption": ""
@@ -179,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Controller.c",
               "DocumentMoniker": "C:\\Users\\didck\\source\\repos\\TetrisRealSubject\\TetrisRealSubject\\Controller.c",
               "RelativeDocumentMoniker": "TetrisRealSubject\\Controller.c",
@@ -200,8 +200,7 @@
               "RelativeToolTip": "TetrisRealSubject\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-02T10:28:04.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T10:28:04.538Z"
             }
           ]
         }
